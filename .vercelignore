@@ -1,0 +1,11 @@
+node_modules/
+package.json
+package-lock.json
+make-og.js
+.claude/
+HTML/
+New folder/
+image*.jpeg
+*.log
+.DS_Store
+Thumbs.db
