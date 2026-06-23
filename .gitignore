@@ -1,0 +1,19 @@
+# OG-image generation tooling (not part of the zero-build static site)
+node_modules/
+package.json
+package-lock.json
+make-og.js
+
+# Local preview / editor helpers
+.claude/
+
+# Original source / scratch folders and raw flyer photos
+HTML/
+New folder/
+image*.jpeg
+
+# Vercel / OS
+.vercel
+*.log
+.DS_Store
+Thumbs.db
